@@ -8,12 +8,6 @@ As a **Full Stack Developer**, I’m always learning new technologies to improve
 > *"Every challenge is an opportunity to grow"*, and I’m committed to delivering quality work while continuing to improve every day.  
 <br>
 
-## My Favorite Things
-
-- **Football ⚽️**: Nothing beats the thrill of the pitch—whether I'm scoring a goal or just having a blast, it's always game time!  
-- **Gym Time 💪**: Pumping iron and breaking a sweat with a smile. Every rep is a step toward greatness (and a few laughs along the way)!  
-- **Books 📚**: When I'm not on the field or in the gym, I'm diving into a good book—fueling my brain with stories and inspiration.  
-
 I'm dedicated to full stack development and have a burning passion for **AI** and **DevOps**, constantly exploring innovative ways to blend cutting-edge technology with robust systems for a smarter future.  
 
 ## Technologies
