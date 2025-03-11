@@ -3,9 +3,7 @@
 I am a **passionate software engineer**  
 <br>
 As a **Full Stack Developer**, I’m always learning new technologies to improve my skills. I believe that the best software is built through collaboration, learning, and persistence.  
-<br>
 > *"Every challenge is an opportunity to grow"*, and I’m committed to delivering quality work while continuing to improve every day.  
-<br>
 
 I'm dedicated to full stack development and have a burning passion for **AI** and **DevOps**, constantly exploring innovative ways to blend cutting-edge technology with robust systems for a smarter future.  
 
@@ -23,7 +21,6 @@ I'm dedicated to full stack development and have a burning passion for **AI** an
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=orange" height="20">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="20">
-<br>
 <br>
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=blue" height="20">
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=green" height="20">
