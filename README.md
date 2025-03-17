@@ -29,6 +29,7 @@ I'm dedicated to full stack development and have a burning passion for **AI** an
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" height="20">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">
 <br>
 <br>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="20">
