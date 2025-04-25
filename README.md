@@ -2,7 +2,7 @@
 
 I am a **passionate software engineer**  
 <br>
-As a **Full Stack Developer**, I’m always learning new technologies to improve my skills. I believe that the best software is built through collaboration, learning, and persistence.  
+As a **Full Stack Software Engineer**, I’m always learning new technologies to improve my skills. I believe that the best software is built through collaboration, learning, and persistence.  
 > *"Every challenge is an opportunity to grow"*, and I’m committed to delivering quality work while continuing to improve every day.  
 
 I'm dedicated to full stack development and have a burning passion for **AI** and **DevOps**, constantly exploring innovative ways to blend cutting-edge technology with robust systems for a smarter future.  
